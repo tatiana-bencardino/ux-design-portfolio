@@ -41,21 +41,26 @@ CS Force was a project I wanted to develop when I first learnt how to write HTML
 snippet is from the design I had in mind before development:
 
 #### Design idea
+
 ![CS Force Landing Page](images/cs-force/landing_page.png)
 
 #### Look of the Website
+
 ![Snippet of csforce.com.co](images/cs-force/snippet_website.png)
 
 >The logo on the right is programmed to do a small animation when the cursor hovers over it. 
+> 
 ## Scammer Scanner
 
 Scammer Scanner is a passion project. So far I have only developed the landing page using HTML and CSS.
 
 #### Landing Page and Review Page Designs
+
 ![Landing Page Scammer Scanner](images/scammer-scanner/Home Page.png)
 ![Scammer Scanner Reviews](images/scammer-scanner/Reviews.png)
 
 #### Final look of Landing Page
+
 ![Snippet of SS Landing Page](images/scammer-scanner/snippet_home_page.png)
 > I designed the logo for this page using Adobe Illustrator
 
@@ -65,3 +70,4 @@ This is my latest passion project, so I am still developing the website. I am th
 to learn how to do it using a framework.
 
 ![Rental Rants Landing Page](images/rental-rants/Landing Page.png)
+
