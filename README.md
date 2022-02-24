@@ -71,3 +71,4 @@ to learn how to do it using a framework.
 
 ![Rental Rants Landing Page](images/rental-rants/Landing Page.png)
 
+..
