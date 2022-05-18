@@ -8,11 +8,9 @@ This repo is divided in multiple folders, each allocated to a specific project. 
 ## OREBS
 
 OREBS (Online Room and Equipment Booking Systems) was a project developed during my semester of the Diploma of Software Development. We were asked to start this project for the Faculty of Music and Media, we worked with the head directors of the faculty to understand the requirements of the system. One of the requirements for this web system was that it needed to have a similar look to the CIT webpage.
-![Landing Page](https://user-images.githubusercontent.com/87354238/155457986-c75a31c9-8baf-47a6-970f-742591c9b025.png)
 
-These are some snippets of the log-in page and the main page once a user logs in:
+This is a snippet of the log-in page and the main page once a user logs in:
 
-![Login Page for OREBS](images/orebs/AdminLayout/Log In.png)
 ![Admin Main Page for OREBS](images/orebs/AdminLayout/AdminMainPage.png)
 
 > More snippets can be found in the `image` folder
